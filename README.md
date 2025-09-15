@@ -54,8 +54,7 @@ A **Power BI Dashboard** was designed to summarize and visualize sales KPIs, giv
 
 ## 📷 Dashboard Preview
 
-*(Add screenshot of your dashboard here)*
-
+![Dashboard Screenshot](./Topselling.jpg)  
 
 
 تحبي أخلي العنوان الرئيسي في الـ README "**Sales Analysis Dashboard**" ولا "**Top Selling Products Report**" زي ما كتبتي؟
