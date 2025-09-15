@@ -39,22 +39,12 @@ A **Power BI Dashboard** was designed to summarize and visualize sales KPIs, giv
 ## 🛠️ Tools Used
 
 * **Power BI** → Dashboard & Visualization
-* **SQL** → Data preparation & querying
 * **Excel/CSV** → Raw data source
 
-## 🚀 How to Use
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/top-selling-products-report.git
-   ```
-2. Open the `.pbix` file in **Power BI Desktop**.
-3. Refresh the data and explore the dashboard.
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](./Topselling.jpg)  
+![Dashboard Screenshot](./Top-Selling-Report.jpg)  
 
 
 تحبي أخلي العنوان الرئيسي في الـ README "**Sales Analysis Dashboard**" ولا "**Top Selling Products Report**" زي ما كتبتي؟
